@@ -109,7 +109,7 @@ Frequent traders should reduce activity during volatile Fear markets.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Krishna_singh_26/Trader-Sentiment-Analysis.git
+git clone https://github.com/krishna26005-debug/Trader-Sentiment-Analysis.git
 cd Trader-Sentiment-Analysis
 ```
 
